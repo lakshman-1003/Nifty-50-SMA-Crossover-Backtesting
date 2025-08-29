@@ -18,6 +18,10 @@ This project demonstrates a stock market backtesting model using the Nifty 50 In
 -> yfinance – Historical stock/index data
 -> backtesting.py – Strategy backtesting framework
 
+Screenshot_image
+
+![Project Screenshot](screenshot.png)
+
 📝 License
 
 This project is licensed under the MIT License – see the LICENSE
