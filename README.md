@@ -20,7 +20,7 @@ This project demonstrates a stock market backtesting model using the Nifty 50 In
 
 Screenshot_image
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 📝 License
 
